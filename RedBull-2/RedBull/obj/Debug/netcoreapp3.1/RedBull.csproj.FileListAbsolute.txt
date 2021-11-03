@@ -1,0 +1,13 @@
+C:\Users\Kuchu\source\repos\RedBull\RedBull\bin\Debug\netcoreapp3.1\RedBull.exe
+C:\Users\Kuchu\source\repos\RedBull\RedBull\bin\Debug\netcoreapp3.1\RedBull.deps.json
+C:\Users\Kuchu\source\repos\RedBull\RedBull\bin\Debug\netcoreapp3.1\RedBull.runtimeconfig.json
+C:\Users\Kuchu\source\repos\RedBull\RedBull\bin\Debug\netcoreapp3.1\RedBull.runtimeconfig.dev.json
+C:\Users\Kuchu\source\repos\RedBull\RedBull\bin\Debug\netcoreapp3.1\RedBull.dll
+C:\Users\Kuchu\source\repos\RedBull\RedBull\bin\Debug\netcoreapp3.1\RedBull.pdb
+C:\Users\Kuchu\source\repos\RedBull\RedBull\obj\Debug\netcoreapp3.1\RedBull.csprojAssemblyReference.cache
+C:\Users\Kuchu\source\repos\RedBull\RedBull\obj\Debug\netcoreapp3.1\RedBull.csproj.CoreCompileInputs.cache
+C:\Users\Kuchu\source\repos\RedBull\RedBull\obj\Debug\netcoreapp3.1\RedBull.AssemblyInfoInputs.cache
+C:\Users\Kuchu\source\repos\RedBull\RedBull\obj\Debug\netcoreapp3.1\RedBull.AssemblyInfo.cs
+C:\Users\Kuchu\source\repos\RedBull\RedBull\obj\Debug\netcoreapp3.1\RedBull.dll
+C:\Users\Kuchu\source\repos\RedBull\RedBull\obj\Debug\netcoreapp3.1\RedBull.pdb
+C:\Users\Kuchu\source\repos\RedBull\RedBull\obj\Debug\netcoreapp3.1\RedBull.genruntimeconfig.cache
